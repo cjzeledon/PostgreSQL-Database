@@ -1,11 +1,11 @@
 # PostgreSQL-Database
 
-Create a PostgreSQL database called todolist with a table called todos to be used for storing todo items._
+Create a PostgreSQL database called todolist with a table called todos to be used for storing todo items.
 
-Each item should have the following fields:_
+Each item should have the following fields:
 
-id -- a serial primary key_
-title -- not optional, string up to 255 characters_
+id -- a serial primary key<br>
+title -- not optional, string up to 255 characters<br>
 details -- optional, holds a large amount of text_
 priority -- not optional, an integer. Default is 1._
 created_at -- not optional. A date and time._
